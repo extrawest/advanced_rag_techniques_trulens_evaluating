@@ -126,3 +126,6 @@ pip install -r requirements.txt
 # Either create a .env file with OPENAI_API_KEY=your-api-key
 # Or export it in your shell:
 export OPENAI_API_KEY=your-api-key
+```
+
+Developed by [extrawest](https://extrawest.com/). Software development company
